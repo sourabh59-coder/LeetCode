@@ -1,2 +1,2 @@
 # LeetCode
-Consists Of LeetCode Solved Problems Solutions
+Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
