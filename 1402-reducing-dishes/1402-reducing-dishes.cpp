@@ -1,22 +1,17 @@
 class Solution {
 public:
-    int maxSatisfaction(vector<int>& v) {
-        sort(v.begin(),v.end());
-        int ans = 0;
-        int n = v.size();
-        // int k = 0;
-        for(int i=0;i<n;i++)
-        {
-            int k = 1;
-            int sum = 0;
-            for(int j=i;j<n;j++)
-            {
-                sum += (k*v[j]);
-                k++;
-            }
-            ans = max(sum,ans);
+    int maxSatisfaction(vector<int>& satisfaction) {
+        sort(satisfaction.begin(), satisfaction.end());
+        
+        int maxSatisfaction = 0;
+        int suffixSum = 0;
+        for (int i = satisfaction.size() - 1; i >= 0 && suffixSum + satisfaction[i] > 0; i--) {
+            // Total satisfaction with all dishes so far.
+            suffixSum += satisfaction[i];
+            // Adding one instance of previous dishes as we add one more dish on the left.
+            maxSatisfaction += suffixSum;
         }
         
-        return ans;
+        return maxSatisfaction;
     }
 };
