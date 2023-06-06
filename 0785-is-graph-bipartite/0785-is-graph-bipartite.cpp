@@ -1,27 +1,25 @@
 class Solution {
 private:
-    void bfs(int v,vector<vector<int>> &adj,vector<int> &col,bool &ans)
+    void dfs(int v,int par,vector<vector<int>> &adj,vector<int> &col,bool &ans)
     {
-        queue<int> qe;
-        qe.push(v);
-        col[v] = 0;
-        
-        while(!qe.empty())
+        if(par==-1)
         {
-            int node = qe.front();
-            qe.pop();
-            
-            for(auto child: adj[node])
+            col[v] = 0;
+        }
+        else
+        {
+            col[v] = 1-col[par];
+        }
+        
+        for(auto child: adj[v])
+        {
+            if(col[child]==-1)
             {
-                if(col[child]==-1)
-                {
-                    col[child] = 1-col[node];
-                    qe.push(child);
-                }
-                else
-                {
-                    if(col[child]==col[node])   ans = false;
-                }
+                dfs(child,v,adj,col,ans);
+            }
+            else
+            {
+                if(col[child]==col[v])    ans = false;
             }
         }
     }
@@ -36,7 +34,7 @@ public:
         {
             if(col[i]==-1)
             {
-                bfs(i,adj,col,ans);
+                dfs(i,-1,adj,col,ans);
             }
         }
         
