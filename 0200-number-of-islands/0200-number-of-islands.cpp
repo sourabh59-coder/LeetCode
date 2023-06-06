@@ -1,39 +1,38 @@
 class Solution {
 public:
-    void fun(vector<vector<char>> &v,int i,int j)
+    void dfs(vector<vector<char>> &v,int i,int j,int n,int m)
     {
-        int m = v.size();
-        int n = v[0].size();
-        if(i<0 || j<0 || i>=m || j>=n)
+        if(i>=0 && j>=0 && i<n && j<m)
         {
-            return;
+            if(v[i][j]=='1')
+            {
+                v[i][j] = '0';
+                
+                dfs(v,i+1,j,n,m);
+                dfs(v,i-1,j,n,m);
+                dfs(v,i,j+1,n,m);
+                dfs(v,i,j-1,n,m);
+            }
         }
-        if(v[i][j]!='1')
-        {
-            return;
-        }
-        
-        v[i][j] = '2';
-        fun(v,i+1,j);
-        fun(v,i-1,j);
-        fun(v,i,j+1);
-        fun(v,i,j-1);
     }
     int numIslands(vector<vector<char>>& v) {
-        int m = v.size();
-        int n = v[0].size();
-        int cnt = 0;
-        for(int i=0;i<m;i++)
+        int ans = 0;
+        
+        int n = v.size();
+        int m = v[0].size();
+        
+        for(int i=0;i<n;i++)
         {
-            for(int j=0;j<n;j++)
+            for(int j=0;j<m;j++)
             {
-                if(v[i][j]=='1')
+                if(v[i][j] == '1')
                 {
-                    cnt++;
-                    fun(v,i,j);
+                    ans++;
+                    dfs(v,i,j,n,m);
                 }
             }
         }
-        return cnt;
+        
+        return ans;
     }
 };
