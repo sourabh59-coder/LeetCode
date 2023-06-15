@@ -9,38 +9,25 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
-void Solve(TreeNode* p,TreeNode* q,bool &ans)
-{
-    if(p==NULL && q==NULL)
-    {
-        return;
-    }
-    if(p==NULL || q==NULL)
-    {
-        ans = false;
-        return;
-    }
-    
-    if(p->val==q->val)
-    {
-        Solve(p->left,q->left,ans);
-        Solve(p->right,q->right,ans);
-    }
-    else
-    {
-        ans = false;
-        return;
-    }
-}
-
 class Solution {
 public:
+    bool Helper(TreeNode* p,TreeNode* q)
+    {
+        if(p==NULL && q==NULL)  return true;
+        
+        if(p==NULL && q!=NULL)  return false;
+        
+        else if(p!=NULL && q==NULL) return false;
+        
+        else
+        {
+            bool a = Helper(p->left,q->left);
+            bool b = Helper(p->right,q->right);
+            
+            return (a&&b&&(p->val==q->val));
+        }
+    }
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        bool ans = true;
-        
-        Solve(p,q,ans);
-        
-        return ans;
+        return Helper(p,q);
     }
 };
