@@ -6,56 +6,43 @@ public:
         
         for(int i=0;i<s.length();i++)
         {
-            if(s[i]=='(' || s[i]=='{' || s[i]=='[')
+            if(s[i]=='(' || s[i]=='[' || s[i]=='{')
             {
                 st.push(s[i]);
             }
-            else if(s[i]==')')
+            else
             {
-                if(!st.empty() && st.top()=='(')
+                if(st.empty())
                 {
-                    st.pop();
-                    continue;
+                    return false;
                 }
-                else
+                else 
                 {
-                    ans = false;
-                    break;
-                }
-            }
-            else if(s[i]==']')
-            {
-                if(!st.empty() && st.top()=='[')
-                {
-                    st.pop();
-                    continue;
-                }
-                else
-                {
-                    ans = false;
-                    break;
-                }
-            }
-            else if(s[i]=='}')
-            {
-                if(!st.empty() && st.top()=='{')
-                {
-                    st.pop();
-                    continue;
-                }
-                else
-                {
-                    ans = false;
-                    break;
+                    if(s[i]==']' && st.top()!='[')
+                    {
+                        return false;
+                    }
+                    else if(s[i]=='}' && st.top()!='{')
+                    {
+                        return false;
+                    }
+                    else if(s[i]==')' && st.top()!='(')
+                    {
+                        return false;
+                    }
+                    else
+                    {
+                        st.pop();
+                    }
                 }
             }
         }
         
         if(!st.empty())
         {
-            ans = false;
+            return false;
         }
         
-        return ans;
+        return true;
     }
 };
