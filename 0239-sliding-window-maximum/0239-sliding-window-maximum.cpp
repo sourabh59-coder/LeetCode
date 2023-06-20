@@ -1,49 +1,22 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& v, int k) {
-        list<pair<int,int>> qe;
-        vector<int> ans;
+        multiset<int> st;
         for(int i=0;i<k;i++)
         {
-            if(qe.empty())
-            {
-                qe.push_back({v[i],i});
-            }
-            else
-            {
-                while(qe.back().first<v[i] && !qe.empty())
-                {
-                    qe.pop_back();
-                }
-                qe.push_back({v[i],i});
-            }
-            
-            // ans.push_back(qe.front().first);
+            st.insert(v[i]);
         }
         
-        ans.push_back(qe.front().first);
+        vector<int> ans;
+        ans.push_back(*st.rbegin());
         
-        for(int i=0;i<v.size()-k;i++)
+        int i = 0, j = k;
+        
+        while(j!=v.size())
         {
-            if(qe.front().second==i)
-            {
-                qe.pop_front();
-            }
-            int j = i+k;
-            if(qe.empty())
-            {
-                qe.push_back({v[j],j});
-            }
-            else
-            {
-                while(qe.back().first<v[j] && !qe.empty())
-                {
-                    qe.pop_back();
-                }
-                qe.push_back({v[j],j});
-            }
-            
-            ans.push_back(qe.front().first);
+            st.insert(v[j++]);
+            st.erase(st.find(v[i++]));
+            ans.push_back(*st.rbegin());
         }
         
         return ans;
