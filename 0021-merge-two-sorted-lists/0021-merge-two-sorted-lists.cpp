@@ -10,61 +10,50 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* fh = NULL , *ft = NULL;
-        ListNode* temp1 = list1;
-        ListNode* temp2 = list2;
+    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
+        if(l1==NULL)    return l2;
+        if(l2==NULL)    return l1;
         
-        if(temp1==NULL)
+        if(l1->val > l2->val)
         {
-            return list2;
-        }
-        if(temp2==NULL)
-        {
-            return list1;
+            ListNode* temp = l1;
+            l1 = l2;
+            l2 = temp;
         }
         
-        while(temp1!=NULL && temp2!=NULL)
+        ListNode* ans = l1;
+        ListNode* prev = l1;
+        l1 = l1->next;
+        
+        while(l1 || l2)
         {
-            int val1 = temp1->val, val2 = temp2->val;
-            if(val1>val2)
+            if(l1 && l2)
             {
-                if(fh==NULL)
+                if(l1->val <= l2->val)
                 {
-                    fh = temp2;
-                    ft = temp2;
+                    prev->next = l1;
+                    prev = l1;
+                    l1 = l1->next;
                 }
                 else
                 {
-                    ft->next = temp2;
-                    ft = ft->next;
+                    prev->next = l2;
+                    prev = l2;
+                    l2 = l2->next;
                 }
-                temp2 = temp2->next;
+            }
+            else if(l2)
+            {
+                prev->next = l2;
+                l2 = NULL;
             }
             else
             {
-                if(fh==NULL)
-                {
-                    fh = temp1;
-                    ft = temp1;
-                }
-                else
-                {
-                    ft->next = temp1;
-                    ft = ft->next;
-                }
-                temp1 = temp1->next;
+                prev->next = l1;
+                l1 = NULL;
             }
         }
-        if(temp1!=NULL)
-        {
-            ft->next = temp1;
-        }
-        if(temp2!=NULL)
-        {
-            ft->next = temp2;
-        }
         
-        return fh;
+        return ans;
     }
 };
