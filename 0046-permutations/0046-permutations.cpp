@@ -1,16 +1,30 @@
 class Solution {
 public:
-    vector<vector<int>> permute(vector<int>& v) {
+    void fun(vector<int> &nums,vector<vector<int>> &ans,vector<int> &temp,unordered_set<int> &st,int ind)
+    {
+        if(temp.size()==nums.size())
+        {
+            ans.push_back(temp);
+            return;
+        }
+        
+        for(int i=0;i<nums.size();i++)
+        {
+            if(st.find(nums[i])==st.end())
+            {
+                temp.push_back(nums[i]);
+                st.insert(nums[i]);
+                fun(nums,ans,temp,st,ind+1);
+                temp.pop_back();
+                st.erase(nums[i]);
+            }
+        }
+    }
+    vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>> ans;
-        sort(v.begin(),v.end());
-        
-        
-        do {
-            // cout << arr[0] << " " << arr[1] << " " << arr[2] << "\n";
-            // vector<int> v1{v[0],v[1],v[2]};
-            ans.push_back(v);
-        } while (next_permutation(v.begin(),v.end()));
-        
+        vector<int> temp;
+        unordered_set<int> st;
+        fun(nums,ans,temp,st,0);
         return ans;
     }
 };
