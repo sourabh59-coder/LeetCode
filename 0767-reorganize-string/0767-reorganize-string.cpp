@@ -1,43 +1,36 @@
 class Solution {
 public:
-    string reorganizeString(string S) {
-        string res="";
-        unordered_map<char,int> mp;
-        priority_queue<pair<int,char>>pq;
-        
-        for(auto s: S)
-            mp[s]+=1;
-        
-        for(auto m: mp)
-            pq.push(make_pair(m.second,m.first));
-        
-        while(pq.size()>1){
-            auto top1= pq.top();
-            pq.pop();
-            auto top2 = pq.top();
-            pq.pop();
-            
-            res+=top1.second;
-            res+=top2.second;
-            
-            top1.first -=1;
-            top2.first -= 1;
-            
-            if(top1.first > 0)
-                pq.push(top1);
-            
-            if(top2.first > 0)
-                pq.push(top2);
+    string reorganizeString(string s) {
+       vector<int>f(26,0);
+       int n=s.size();
+       for(int i=0;i<s.size();i++){
+           f[s[i]-'a']++;
+        if(f[s[i]-'a']>(n+1)/2)
+        return "";
+       }
+       priority_queue<pair<int,char>>p;
+       for(int i=0;i<26;i++){
+        if(f[i]!=0){
+            p.push({f[i],(char)i+'a'});
         }
-        
-        if(!pq.empty()){
-            if(pq.top().first > 1)
-                return "";
-            
-            else
-                res+=pq.top().second;
-        }
-        
-        return res;
+       }
+       string ans="";
+       while(p.size()>=2){
+           pair<int,char>p1=p.top();
+           p.pop();
+           pair<int,char>p2=p.top();
+           p.pop();
+           ans+=p1.second;
+           ans+=p2.second;
+           if(p1.first>1){
+           p.push({p1.first-1,p1.second});
+           }
+           if(p2.first>1){
+             p.push({p2.first-1,p2.second});
+           }
+       }
+       if(p.size()==1)
+        ans+=p.top().second;
+       return ans;
     }
 };
