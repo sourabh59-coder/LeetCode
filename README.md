@@ -6,6 +6,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sourabh59-coder/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0015-3sum) |
 ## Binary Search
@@ -33,4 +34,8 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sourabh59-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
