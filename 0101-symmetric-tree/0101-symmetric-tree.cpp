@@ -11,19 +11,27 @@
  */
 class Solution {
 public:
-    bool Fun(TreeNode* l,TreeNode* r)
+    void fun(TreeNode* a,TreeNode* b,bool &ans)
     {
-        if(l==NULL && r==NULL)  return true;
-        
-        if(l==NULL && r!=NULL)  return false;
-        
-        if(l!=NULL && r==NULL)  return false;
-        
-        return (r->val==l->val)&&(Fun(l->right,r->left))&&(Fun(l->left,r->right));
+        if(a==NULL && b==NULL)  return;
+        else if(a!=NULL && b!=NULL)
+        {
+            if(a->val==b->val)
+            {
+                fun(a->left,b->right,ans);
+                fun(a->right,b->left,ans);
+            }
+            else    
+            {
+                ans = false;
+                return;
+            }
+        }
+        else    ans = false;
     }
     bool isSymmetric(TreeNode* root) {
-        if(root==NULL)  return true;
-        
-        return Fun(root->left,root->right);
+        bool ans = true;
+        fun(root,root,ans);
+        return ans;
     }
 };
