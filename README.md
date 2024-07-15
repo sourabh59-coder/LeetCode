@@ -43,6 +43,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -50,6 +51,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -57,12 +59,14 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
