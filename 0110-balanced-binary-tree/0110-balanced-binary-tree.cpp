@@ -11,20 +11,20 @@
  */
 class Solution {
 public:
-    int Height(TreeNode* root,bool &ans)
+    int fun(TreeNode* root,bool &ans)
     {
         if(root==NULL)  return -1;
-        
-        int lh = Height(root->left,ans);
-        int rh = Height(root->right,ans);
-        
+
+        int lh = fun(root->left,ans);
+        int rh = fun(root->right,ans);
+
         if(abs(lh-rh)>1)    ans = false;
-        
+
         return max(lh,rh)+1;
     }
     bool isBalanced(TreeNode* root) {
         bool ans = true;
-        Height(root,ans);
+        fun(root,ans);
         return ans;
     }
 };
