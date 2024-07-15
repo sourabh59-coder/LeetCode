@@ -50,6 +50,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0101-symmetric-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -65,6 +66,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0101-symmetric-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -79,6 +81,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0100-same-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -92,6 +95,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0100-same-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sourabh59-coder/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
