@@ -55,6 +55,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0112-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -74,6 +75,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0112-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -92,6 +94,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0112-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0543-diameter-of-binary-tree) |
