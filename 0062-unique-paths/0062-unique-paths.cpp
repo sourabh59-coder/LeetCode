@@ -1,16 +1,27 @@
 class Solution {
 public:
-    int dp[101][101];
-    int solve(int m,int n,int i,int j){
-        if(i==m-1||j==n-1){
-            return 1;
+    const int mod = 2000000000;
+    vector<pair<int,int>> moments = {{0,-1},{-1,0}};
+    int fun(int n,int m,vector<vector<int>> &dp)
+    {
+        if(n==0 && m==0)    return 1;
+
+        if(dp[n][m]!=-1)    return dp[n][m];
+
+        int ans = 0;
+
+        for(auto moment: moments)
+        {
+            int x = moment.first + n;
+            int y = moment.second + m;
+
+            if(x>=0 && y>=0)    ans = (ans + fun(x,y,dp)) % mod;
         }
-        if(dp[i][j]!=-1)
-            return dp[i][j];
-        return dp[i][j]=solve(m,n,i+1,j)+solve(m,n,i,j+1);
+
+        return dp[n][m] = ans;
     }
     int uniquePaths(int m, int n) {
-        memset(dp,-1,sizeof(dp));
-        return solve(m,n,0,0);
+        vector<vector<int>> dp(m+1, vector<int> (n+1, -1));
+        return fun(m-1,n-1,dp);
     }
 };
