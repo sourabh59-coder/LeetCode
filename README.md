@@ -9,6 +9,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0001-two-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sourabh59-coder/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0015-3sum) |
+| [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0474-ones-and-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -42,6 +43,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sourabh59-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sourabh59-coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0474-ones-and-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -155,4 +157,8 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
