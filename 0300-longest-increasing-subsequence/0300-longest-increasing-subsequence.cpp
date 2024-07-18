@@ -1,27 +1,22 @@
 class Solution {
 public:
-    int fun(vector<int> &v,int n,int i,int prev_ind,vector<vector<int>> &dp)
+    int fun(vector<int> &v,int ind,int prev,int n,vector<vector<int>> &dp)
     {
-        if(i==n)    return 0;
-        
-        if(dp[i][prev_ind+1]!=-1)   return dp[i][prev_ind+1];
+        if(ind==n)  return 0;
 
-        int NotTake = 0+fun(v,n,i+1,prev_ind,dp);
+        if(dp[ind][prev+1]!=-1) return dp[ind][prev+1];
+
+        int notTake = 0 + fun(v,ind+1,prev,n,dp);
 
         int Take = 0;
 
-        if(prev_ind==-1 || v[prev_ind]<v[i])
-        {
-            Take = 1+fun(v,n,i+1,i,dp);
-        }
+        if(prev==-1 || v[prev]<v[ind]) Take = 1 + fun(v,ind+1,ind,n,dp);
 
-        return dp[i][prev_ind+1] = max(Take,NotTake);
+        return dp[ind][prev+1] = max(Take,notTake);
     }
-
-    int lengthOfLIS(vector<int>& v)
-    {
+    int lengthOfLIS(vector<int>& v) {
         int n = v.size();
-        vector<vector<int>> dp(n, vector<int>(n+1,-1));
-        return fun(v,v.size(),0,-1,dp);
+        vector<vector<int>> dp(n+1, vector<int> (n+2,-1));
+        return fun(v,0,-1,n,dp);
     }
 };
