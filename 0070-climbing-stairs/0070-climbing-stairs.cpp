@@ -13,17 +13,20 @@ public:
         return dp[n] = (one+two);
     }
     int climbStairs(int n) {
-        vector<int> dp(n+1,0);
-        dp[0] = 1;
+        // vector<int> dp(n+1,0);
+        // dp[0] = 1;
+        int curr=1,prev=1,prevprev=1;
         for(int i=1;i<=n;i++)
         {
             int one  = 0, two = 0;
-            if(i>=1) one = dp[i-1];
-            if(i>=2) two = dp[i-2];
+            if(i>=1) one = prev;
+            if(i>=2) two = prevprev;
 
-            dp[i] = (one+two);
+            curr = (one+two);
+            prevprev = prev;
+            prev = curr;
         }
-        return dp[n];
+        return curr;
         // return fun(n,dp);
     }
 };
