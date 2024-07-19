@@ -1,28 +1,40 @@
 class Solution {
 public:
-    vector<vector<int>> threeSum(vector<int>& v) {
-        int n = v.size();
-        unordered_set<int> st;
-        sort(v.begin(),v.end());
-        st.insert(v[0]);
-        set<vector<int>> ans;
-        for(int i=1;i<n-1;i++)
+    int BinarySearch(vector<int> &v,int l,int r,int k)
+    {
+        while(l<=r)
         {
-            for(int j=i+1;j<n;j++)
+            int mid = (r+l)/2;
+            if(v[mid]==k)   return mid;
+            else if(v[mid]<k)   l = mid+1;
+            else                r = mid-1;
+        }
+        return -1;
+    }
+    vector<vector<int>> threeSum(vector<int>& v) {
+        vector<vector<int>> ans;
+        set<vector<int>> st;
+        int  n = v.size();
+        sort(v.begin(),v.end());
+        for(int i=0;i<n-2;i++)
+        {
+            for(int j=i+1;j<n-1;j++)
             {
-                int val = v[i]+v[j];
-                if(st.count((-1 * val))!=0)
+                int  l = j+1, r = n-1;
+                int val = v[i] + v[j];
+                val = (-1) * val;
+                int search = BinarySearch(v,l,r,val);
+                if(search!=-1)  
                 {
-                    ans.insert({-1*val, v[i],v[j]});
+                    st.insert({v[i],v[j],v[search]});
                 }
             }
-            st.insert(v[i]);
         }
-        vector<vector<int>> a;
-        for(auto it=ans.begin();it!=ans.end();it++)
+
+        for(auto it: st)
         {
-            a.push_back(*it);
+            ans.push_back(it);
         }
-        return a;
+        return ans;
     }
 };
