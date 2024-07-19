@@ -19,6 +19,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sourabh59-coder/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/sourabh59-coder/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/sourabh59-coder/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sourabh59-coder/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/sourabh59-coder/LeetCode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/sourabh59-coder/LeetCode/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -200,6 +201,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/sourabh59-coder/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/sourabh59-coder/LeetCode/tree/master/0221-maximal-square) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sourabh59-coder/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sourabh59-coder/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Sliding Window
 |  |
@@ -216,4 +218,12 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0042-trapping-rain-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sourabh59-coder/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sourabh59-coder/LeetCode/tree/master/0085-maximal-rectangle) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/sourabh59-coder/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/sourabh59-coder/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
