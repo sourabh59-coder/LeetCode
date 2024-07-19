@@ -9,6 +9,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0001-two-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sourabh59-coder/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/sourabh59-coder/LeetCode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -35,6 +36,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sourabh59-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sourabh59-coder/LeetCode/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -52,6 +54,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sourabh59-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sourabh59-coder/LeetCode/tree/master/0070-climbing-stairs) |
@@ -160,6 +163,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sourabh59-coder/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Math
 |  |
@@ -187,4 +191,8 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
