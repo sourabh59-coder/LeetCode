@@ -1,19 +1,16 @@
 class Solution {
 public:
     int maxProfit(vector<int>& v) {
-        vector<int> minv(v.size());
-        minv[0] = v[0];
-        for(int i=1;i<v.size();i++)
-        {
-            minv[i] = min(v[i],minv[i-1]);
-        }
+        int n = v.size();
+        vector<int> l = v;
+        vector<int> r = v;
+        for(int i=1;i<n;i++)    l[i] = min(l[i],l[i-1]);
+        for(int i=n-2;i>=0;i--) r[i] = max(r[i],r[i+1]);
+
         int ans = 0;
-        for(int i=0;i<v.size();i++)
+        for(int i=0;i<n;i++)
         {
-            if(v[i]-minv[i]>ans)
-            {
-                ans = v[i]-minv[i];
-            }
+            ans = max(ans,r[i]-l[i]);
         }
         return ans;
     }
