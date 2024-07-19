@@ -21,6 +21,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0322-coin-change](https://github.com/sourabh59-coder/LeetCode/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/sourabh59-coder/LeetCode/tree/master/0740-delete-and-earn) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sourabh59-coder/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search
 |  |
@@ -68,6 +69,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0322-coin-change](https://github.com/sourabh59-coder/LeetCode/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/sourabh59-coder/LeetCode/tree/master/0740-delete-and-earn) |
 | [0972-knight-dialer](https://github.com/sourabh59-coder/LeetCode/tree/master/0972-knight-dialer) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sourabh59-coder/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Hash Table
@@ -75,6 +77,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0001-two-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0001-two-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sourabh59-coder/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0740-delete-and-earn](https://github.com/sourabh59-coder/LeetCode/tree/master/0740-delete-and-earn) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sourabh59-coder/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
