@@ -1,46 +1,56 @@
 class Solution {
 public:
-    unordered_map<int, int> m;
-    int dp[2000][2000];
-
-    int solve(int i, int k, vector<int>& stones) {
-        if (i == stones.size() - 1) {
-            return true;
+    vector<int> moments = {-1,0,+1};
+    int isPresent(vector<int> &v,int k)
+    {
+        int l = 0, r = v.size()-1;
+        while(l<=r)
+        {
+            int mid = (r+l)/2;
+            if(v[mid]==k)   return mid;
+            else if(v[mid]<k)   l = mid+1;
+            else                r = mid-1;
         }
-        
-        if (dp[i][k] != -1) {
-            return dp[i][k];
-        }
-
-        bool k0 = false;
-        bool kp = false;
-        bool k1 = false;
-
-        if (m.find(stones[i] + k) != m.end()) {
-            k0 = solve(m[stones[i] + k], k, stones);
-        }
-        if (k > 1 && m.find(stones[i] + k - 1) != m.end()) {
-            kp = solve(m[stones[i] + k - 1], k - 1, stones);
-        }
-        if (m.find(stones[i] + k + 1) != m.end()) {
-            k1 = solve(m[stones[i] + k + 1], k + 1, stones);
-        }
-
-        dp[i][k] = k0 || kp || k1;
-        return dp[i][k];
+        return -1;
     }
+    int fun(vector<int> &v,int ind,int prev,int n,vector<vector<int>> &dp)
+    {
+        if(ind>=n)   return 0;
+        if(ind==n-1)   return 1;
 
-    bool canCross(vector<int>& stones) {
-        if (stones[1] - stones[0] != 1) {
-            return false;
+        if(dp[ind][prev+1]!=-1) return dp[ind][prev+1];
+
+        int ans = 0;
+
+        if(prev==-1)
+        {
+            int val = isPresent(v,v[ind]+1);
+            if(val!=-1)
+            {
+                ans |= fun(v,val,1,n,dp);
+            }
+        }
+        else
+        {
+            for(auto moment: moments)
+            {
+                int check = prev + moment;
+                if(check>0)
+                {
+                    int val = isPresent(v,v[ind]+check);
+                    if(val!=-1)
+                    {
+                        ans |= fun(v,val,check,n,dp);
+                    }
+                }
+            }
         }
 
-        for (int i = 0; i < stones.size(); i++) {
-            m[stones[i]] = i;
-        }
-        
-        memset(dp, -1, sizeof(dp));
-
-        return solve(1, 1, stones);
+        return dp[ind][prev+1] = ans;
+    }
+    bool canCross(vector<int>& v) {
+        int n = v.size();
+        vector<vector<int>> dp(n+1, vector<int> (n+1,-1));
+        return fun(v,0,-1,n,dp);
     }
 };
