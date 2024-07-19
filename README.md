@@ -18,6 +18,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0152-maximum-product-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sourabh59-coder/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/sourabh59-coder/LeetCode/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/sourabh59-coder/LeetCode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/sourabh59-coder/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sourabh59-coder/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/sourabh59-coder/LeetCode/tree/master/0322-coin-change) |
@@ -203,6 +204,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/sourabh59-coder/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/sourabh59-coder/LeetCode/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/sourabh59-coder/LeetCode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sourabh59-coder/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sourabh59-coder/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Sliding Window
@@ -228,4 +230,8 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/sourabh59-coder/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/sourabh59-coder/LeetCode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
