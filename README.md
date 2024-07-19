@@ -20,6 +20,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0221-maximal-square](https://github.com/sourabh59-coder/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/sourabh59-coder/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sourabh59-coder/LeetCode/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/sourabh59-coder/LeetCode/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/sourabh59-coder/LeetCode/tree/master/0740-delete-and-earn) |
@@ -70,6 +71,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0221-maximal-square](https://github.com/sourabh59-coder/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/sourabh59-coder/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sourabh59-coder/LeetCode/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/sourabh59-coder/LeetCode/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/sourabh59-coder/LeetCode/tree/master/0740-delete-and-earn) |
