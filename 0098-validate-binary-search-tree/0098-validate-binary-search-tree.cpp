@@ -11,18 +11,19 @@
  */
 class Solution {
 public:
-    bool fun(TreeNode* root,long long maxv,long long minv)
+    bool fun(TreeNode* root,long long int l,long long int r)
     {
         if(root==NULL)  return true;
-        
-        if(root->val >= maxv || root->val <= minv)
+
+        if(root->val > l && root->val < r)
         {
-            return false;
+            return fun(root->right,root->val,r) && fun(root->left,l,root->val);
         }
-        
-        return fun(root->right,maxv,root->val)&&fun(root->left,root->val,minv);
+
+        return false;
     }
     bool isValidBST(TreeNode* root) {
-        return fun(root,LONG_MAX,LONG_MIN);
+        long long int min = -1000000000000, max = 1000000000000;
+        return fun(root,min,max);
     }
 };
