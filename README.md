@@ -107,6 +107,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0424-longest-repeating-character-replacement](https://github.com/sourabh59-coder/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/sourabh59-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/sourabh59-coder/LeetCode/tree/master/0740-delete-and-earn) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sourabh59-coder/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
@@ -126,6 +127,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0543-diameter-of-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sourabh59-coder/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sourabh59-coder/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -146,6 +148,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0543-diameter-of-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sourabh59-coder/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sourabh59-coder/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -167,6 +170,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0572-subtree-of-another-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sourabh59-coder/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/sourabh59-coder/LeetCode/tree/master/0733-flood-fill) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/sourabh59-coder/LeetCode/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sourabh59-coder/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -184,6 +188,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/sourabh59-coder/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/sourabh59-coder/LeetCode/tree/master/0733-flood-fill) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/sourabh59-coder/LeetCode/tree/master/0971-shortest-bridge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sourabh59-coder/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Binary Search Tree
