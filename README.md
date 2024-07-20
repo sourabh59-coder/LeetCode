@@ -169,6 +169,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0733-flood-fill](https://github.com/sourabh59-coder/LeetCode/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/sourabh59-coder/LeetCode/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/sourabh59-coder/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0617-merge-two-binary-trees](https://github.com/sourabh59-coder/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/sourabh59-coder/LeetCode/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/sourabh59-coder/LeetCode/tree/master/0971-shortest-bridge) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/sourabh59-coder/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -293,4 +295,9 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sourabh59-coder/LeetCode/tree/master/0200-number-of-islands) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/sourabh59-coder/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Graph
+|  |
+| ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/sourabh59-coder/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
