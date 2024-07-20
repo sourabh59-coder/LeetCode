@@ -21,6 +21,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sourabh59-coder/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/sourabh59-coder/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/sourabh59-coder/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/sourabh59-coder/LeetCode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/sourabh59-coder/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -152,6 +153,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/sourabh59-coder/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -168,6 +170,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0101-symmetric-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/sourabh59-coder/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/sourabh59-coder/LeetCode/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -219,6 +222,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/sourabh59-coder/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sourabh59-coder/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/sourabh59-coder/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/sourabh59-coder/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/sourabh59-coder/LeetCode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sourabh59-coder/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -274,4 +278,8 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sourabh59-coder/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
