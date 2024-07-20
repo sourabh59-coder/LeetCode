@@ -1,38 +1,45 @@
 class Solution {
 public:
-    void dfs(vector<vector<char>> &v,int i,int j,int n,int m)
+    vector<pair<int,int>> moments = {{1,0},{0,1},{-1,0},{0,-1}};
+    bool check(int i,int j,int n,int m)
     {
-        if(i>=0 && j>=0 && i<n && j<m)
+        return (i>=0 && j>=0 && i<n && j<m);
+    }
+    void dfs(int i,int j,vector<vector<char>> &v,vector<vector<int>> &vis)
+    {
+        int n = v.size();
+        int m = v[0].size();
+        vis[i][j] = 1;
+
+        for(auto moment: moments)
         {
-            if(v[i][j]=='1')
+            int x = i + moment.first;
+            int y = j + moment.second;
+
+            if(check(x,y,n,m) && !vis[x][y] && v[i][j]=='1')
             {
-                v[i][j] = '0';
-                
-                dfs(v,i+1,j,n,m);
-                dfs(v,i-1,j,n,m);
-                dfs(v,i,j+1,n,m);
-                dfs(v,i,j-1,n,m);
+                dfs(x,y,v,vis);
             }
         }
     }
     int numIslands(vector<vector<char>>& v) {
-        int ans = 0;
-        
         int n = v.size();
         int m = v[0].size();
-        
+
+        vector<vector<int>>  vis(n, vector<int> (m,0));
+        int ans = 0;
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
             {
-                if(v[i][j] == '1')
+                if(!vis[i][j] && v[i][j]=='1')
                 {
                     ans++;
-                    dfs(v,i,j,n,m);
+                    dfs(i,j,v,vis);
                 }
             }
         }
-        
+
         return ans;
     }
 };
