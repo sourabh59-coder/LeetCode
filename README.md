@@ -63,6 +63,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sourabh59-coder/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sourabh59-coder/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -111,6 +112,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0127-word-ladder](https://github.com/sourabh59-coder/LeetCode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/sourabh59-coder/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sourabh59-coder/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sourabh59-coder/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/sourabh59-coder/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/sourabh59-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/sourabh59-coder/LeetCode/tree/master/0740-delete-and-earn) |
@@ -340,6 +342,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0138-copy-list-with-random-pointer](https://github.com/sourabh59-coder/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sourabh59-coder/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sourabh59-coder/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sourabh59-coder/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0908-middle-of-the-linked-list) |
