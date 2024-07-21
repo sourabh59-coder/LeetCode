@@ -244,6 +244,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0062-unique-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sourabh59-coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sourabh59-coder/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Memoization
 |  |
 | ------- |
@@ -337,6 +338,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0141-linked-list-cycle](https://github.com/sourabh59-coder/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0445-add-two-numbers-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sourabh59-coder/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
