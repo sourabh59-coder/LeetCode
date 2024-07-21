@@ -1,55 +1,85 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        stack<int> v1,v2;
-        while(l1!=NULL)
-        {
-            v1.push(l1->val);
-            l1 = l1->next;
-        }
-        while(l2!=NULL)
-        {
-            v2.push(l2->val);
-            l2 = l2->next;
-        }
-        
-        stack<int> ans;
-        int carry = 0;
-        while(carry!=0 || !v1.empty() || !v2.empty())
-        {
-            int k1 = 0;
-            int k2 = 0;
-            
-            if(!v1.empty())
-            {
-                k1 = v1.top();
-                v1.pop();
-            }
-            
-            if(!v2.empty())
-            {
-                k2 = v2.top();
-                v2.pop();
-            }
-            
-            int sum = k1+k2+carry;
-            
-            ans.push(sum%10);
-            carry = sum/10;
-        }
-        
-        ListNode* head = new ListNode(ans.top());
-        ans.pop();
+    ListNode* reverseList(ListNode* head)
+    {
+        if(head==NULL || head->next==NULL)  return head;
+
         ListNode* ptr = head;
-        
-        while(!ans.empty())
+        ListNode* prev = NULL;
+        while(ptr!=NULL)
         {
-            ListNode* temp = new ListNode(ans.top());
-            ans.pop();
-            ptr->next = temp;
-            ptr = ptr->next;
+            ListNode* next_ptr = ptr->next;
+            ptr->next = prev;
+            prev = ptr;
+            ptr = next_ptr;
         }
-        
-        return head;
+
+        return prev;
+    }
+    ListNode* addList(ListNode* l1,ListNode* l2)
+    {
+        ListNode* dummy = new ListNode(-1);
+        ListNode* temp = dummy;
+        int carry = 0;
+        while(l1 && l2)
+        {
+            int sum = l1->val + l2->val + carry;
+            l1 = l1->next;
+            l2 = l2->next;
+            int node_val = sum%10;
+            carry = sum/10;
+            ListNode* node = new ListNode(node_val);
+            temp->next = node;
+            temp = temp->next;
+        }
+
+        while(l1)
+        {
+            int sum = l1->val + carry;
+            l1 = l1->next;
+            int node_val = sum%10;
+            carry = sum/10;
+            ListNode* node = new ListNode(node_val);
+            temp->next = node;
+            temp = temp->next;
+        }
+
+        while(l2)
+        {
+            int sum = l2->val + carry;
+            l2 = l2->next;
+            int node_val = sum%10;
+            carry = sum/10;
+            ListNode* node = new ListNode(node_val);
+            temp->next = node;
+            temp = temp->next;
+        }
+
+        if(carry!=0)
+        {
+            ListNode* node = new ListNode(carry);
+            carry = 0;
+            temp->next = node;
+            temp = temp->next;
+        }
+
+        return dummy->next;
+    }
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        l1 = reverseList(l1);
+        l2 = reverseList(l2);
+        ListNode* ans = addList(l1,l2);
+        ans = reverseList(ans);
+        return ans;
     }
 };
