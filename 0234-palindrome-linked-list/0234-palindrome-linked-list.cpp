@@ -10,34 +10,44 @@
  */
 class Solution {
 public:
-    bool isPalindrome(ListNode* head) {
-        if(head==NULL||head->next==NULL)
-            return true;
-        ListNode* slow=head;
-        ListNode* fast=head;
-        while(fast->next!=NULL&&fast->next->next!=NULL){
-            slow=slow->next;
-            fast=fast->next->next;
+    ListNode* reverseList(ListNode* head)
+    {
+        ListNode* ptr = head;
+        ListNode* prev = NULL;
+
+        while(ptr!=NULL)
+        {
+            ListNode* ptr_next = ptr->next;
+            ptr->next = prev;
+            prev = ptr;
+            ptr = ptr_next;
         }
-        slow->next=reverseList(slow->next);
-        slow=slow->next;
-        while(slow!=NULL){
-            if(head->val!=slow->val)
-                return false;
-            head=head->next;
-            slow=slow->next;
-        }
-        return true;
+
+        return prev;
     }
-    ListNode* reverseList(ListNode* head) {
-        ListNode* pre=NULL;
-        ListNode* next=NULL;
-        while(head!=NULL){
-            next=head->next;
-            head->next=pre;
-            pre=head;
-            head=next;
+    bool isPalindrome(ListNode* head) {
+        if(head==NULL || head->next==NULL)  return true;
+        
+        // Find the middle of the linked list
+        ListNode* slow = head;
+        ListNode* fast = head;
+        
+        while(fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        return pre;
+        
+        // Reverse the second half of the linked list
+        ListNode* secondHalf = reverseList(slow);
+        ListNode* firstHalf = head;
+        
+        // Compare the first half and the reversed second half
+        while(secondHalf) {
+            if(firstHalf->val != secondHalf->val) return false;
+            firstHalf = firstHalf->next;
+            secondHalf = secondHalf->next;
+        }
+        
+        return true;
     }
 };
