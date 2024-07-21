@@ -233,6 +233,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sourabh59-coder/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sourabh59-coder/LeetCode/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -316,4 +317,12 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sourabh59-coder/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sourabh59-coder/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sourabh59-coder/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
