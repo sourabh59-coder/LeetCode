@@ -50,6 +50,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sourabh59-coder/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/sourabh59-coder/LeetCode/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sourabh59-coder/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sourabh59-coder/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
@@ -70,6 +72,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0015-3sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sourabh59-coder/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0148-sort-list) |
 ## String
 |  |
 | ------- |
@@ -311,6 +314,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/sourabh59-coder/LeetCode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -342,6 +346,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0138-copy-list-with-random-pointer](https://github.com/sourabh59-coder/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sourabh59-coder/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sourabh59-coder/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sourabh59-coder/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0445-add-two-numbers-ii) |
