@@ -55,89 +55,74 @@ class DisjointSet {
 
 class Solution {
 public:
-    int getDsuInd(int i,int j,int n)
-    {
-        return (i*(n) + j);
-    }
     vector<pair<int,int>> moments = {{1,0},{0,1},{-1,0},{0,-1}};
-    bool isValid(int x,int y,int n)
+    int DSUind(int i,int j,int n)
     {
-        return (x>=0 && y>=0 && x<n && y<n);
+        return (i*n) + j;
+    }
+    bool check(int i,int j,int n)
+    {
+        return (i>=0 && j>=0 && i<n && j<n);
     }
     int largestIsland(vector<vector<int>>& v) {
         int n = v.size();
 
         DisjointSet ds(n*n);
 
-        int ans = INT_MIN;
-
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<n;j++)
             {
-                int ind = getDsuInd(i,j,n);
-
                 if(v[i][j]==1)
                 {
+                    int i1 = DSUind(i,j,n);
+
                     for(auto moment: moments)
                     {
                         int x = moment.first + i;
                         int y = moment.second + j;
 
-                        if(isValid(x,y,n))
+                        if(check(x,y,n) && v[x][y])
                         {
-                            if(v[x][y]==1)
-                            {
-                                int child_ind = getDsuInd(x,y,n);
-                                ds.unionBySize(child_ind,ind);
-                            }
+                            int i2 = DSUind(x,y,n);
+
+                            ds.unionBySize(i1,i2);
                         }
                     }
                 }
-
-                int si = ds.getSize(ind);
-                ans = max(ans,si);
             }
         }
 
-
+        int ans = 0;
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<n;j++)
             {
-                set<int> st;
-                if(v[i][j]==0)
+                if(v[i][j] == 0)
                 {
-                    int ind = getDsuInd(i,j,n);
-
-                    int check = 1;
-
-                    for(auto moment: moments)
+                    set<int> st;
+                    for(auto moment:moments)
                     {
-                        int x = moment.first + i;
-                        int y = moment.second + j;
+                        int x = i + moment.first;
+                        int y = j + moment.second;
 
-                        if(isValid(x,y,n))
+                        if(check(x,y,n) && v[x][y]==1)
                         {
-                            if(v[x][y]==1)
-                            {
-                                int child_ind = getDsuInd(x,y,n);
-                                st.insert(ds.findUPar(child_ind));
-                            }
+                            int i2 = DSUind(x,y,n);
+                            st.insert(ds.findUPar(i2));
                         }
                     }
-
+                    int cnt = 1;
                     for(auto it: st)
                     {
-                        int si = ds.getSize(it);
-                        check += si;
+                        cnt += ds.getSize(it);
                     }
 
-                    ans = max(ans,check);
+                    ans = max(ans,cnt);
                 }
             }
         }
 
-        return ans;
+        return (ans==0) ? (n*n):ans;
     }
 };
