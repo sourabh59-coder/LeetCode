@@ -193,6 +193,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0572-subtree-of-another-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sourabh59-coder/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/sourabh59-coder/LeetCode/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/sourabh59-coder/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/sourabh59-coder/LeetCode/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -213,6 +214,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/sourabh59-coder/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/sourabh59-coder/LeetCode/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/sourabh59-coder/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/sourabh59-coder/LeetCode/tree/master/0971-shortest-bridge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sourabh59-coder/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -338,6 +340,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/sourabh59-coder/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sourabh59-coder/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Linked List
 |  |
@@ -374,4 +377,8 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sourabh59-coder/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/sourabh59-coder/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
