@@ -1,29 +1,16 @@
 class Solution {
 public:
     vector<int> countBits(int n) {
-        vector<int> ans;
-        for(int i=0 ; i<=n; i++)
-        {
-            int count=0;
-            int k = i;
-            // while(k)
-            // {
-            //     if((k&1)==1)
-            //     {
-            //         count++;
-            //     } 
-            //     k = k/2;
-            // }
-            for(int j=0;j<32;j++)
-            {
-                int mask = 1<<j;
-                if(k&mask)
-                {
-                    count++;
-                }
+        vector<int> dp(n+1);
+        dp[0] = 0;
+        for(int i=1; i<=n; i++) {
+            if((i & (i - 1)) == 0) { 
+                dp[i] = 1;
+            } else {
+                int highestPowerOfTwo = 1 << (int)log2(i);
+                dp[i] = dp[i - highestPowerOfTwo] + 1;
             }
-            ans.push_back(count);
         }
-        return ans;
+        return dp;
     }
 };
