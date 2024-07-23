@@ -35,6 +35,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0560-subarray-sum-equals-k](https://github.com/sourabh59-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/sourabh59-coder/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/sourabh59-coder/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/sourabh59-coder/LeetCode/tree/master/0740-delete-and-earn) |
 | [0854-making-a-large-island](https://github.com/sourabh59-coder/LeetCode/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/sourabh59-coder/LeetCode/tree/master/0971-shortest-bridge) |
@@ -275,6 +276,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0143-reorder-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0739-daily-temperatures](https://github.com/sourabh59-coder/LeetCode/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -325,6 +327,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0042-trapping-rain-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sourabh59-coder/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sourabh59-coder/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0739-daily-temperatures](https://github.com/sourabh59-coder/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
