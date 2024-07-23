@@ -44,6 +44,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [1117-as-far-from-land-as-possible](https://github.com/sourabh59-coder/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sourabh59-coder/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sourabh59-coder/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1762-furthest-building-you-can-reach](https://github.com/sourabh59-coder/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sourabh59-coder/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search
 |  |
@@ -372,6 +373,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1762-furthest-building-you-can-reach](https://github.com/sourabh59-coder/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 ## Union Find
 |  |
 | ------- |
@@ -429,6 +431,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sourabh59-coder/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sourabh59-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1762-furthest-building-you-can-reach](https://github.com/sourabh59-coder/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 ## Topological Sort
 |  |
 | ------- |
