@@ -153,6 +153,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0617-merge-two-binary-trees](https://github.com/sourabh59-coder/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/sourabh59-coder/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sourabh59-coder/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -207,6 +208,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0971-shortest-bridge](https://github.com/sourabh59-coder/LeetCode/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sourabh59-coder/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/sourabh59-coder/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0971-shortest-bridge](https://github.com/sourabh59-coder/LeetCode/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/sourabh59-coder/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sourabh59-coder/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/sourabh59-coder/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Binary Search Tree
 |  |
 | ------- |
