@@ -12,6 +12,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0015-3sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/sourabh59-coder/LeetCode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/sourabh59-coder/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sourabh59-coder/LeetCode/tree/master/0078-subsets) |
@@ -275,6 +276,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/sourabh59-coder/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/sourabh59-coder/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sourabh59-coder/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sourabh59-coder/LeetCode/tree/master/0079-word-search) |
