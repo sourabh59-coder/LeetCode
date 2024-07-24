@@ -10,6 +10,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/sourabh59-coder/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/sourabh59-coder/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/sourabh59-coder/LeetCode/tree/master/0051-n-queens) |
@@ -135,6 +136,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/sourabh59-coder/LeetCode/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/sourabh59-coder/LeetCode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/sourabh59-coder/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sourabh59-coder/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -275,6 +277,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sourabh59-coder/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/sourabh59-coder/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/sourabh59-coder/LeetCode/tree/master/0077-combinations) |
@@ -312,6 +315,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sourabh59-coder/LeetCode/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/sourabh59-coder/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sourabh59-coder/LeetCode/tree/master/0085-maximal-rectangle) |
