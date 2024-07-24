@@ -168,6 +168,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/sourabh59-coder/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/sourabh59-coder/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -195,6 +196,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/sourabh59-coder/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/sourabh59-coder/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -276,6 +278,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/sourabh59-coder/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/sourabh59-coder/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -311,6 +314,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0085-maximal-rectangle](https://github.com/sourabh59-coder/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sourabh59-coder/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0143-reorder-list) |
+| [0173-binary-search-tree-iterator](https://github.com/sourabh59-coder/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/sourabh59-coder/LeetCode/tree/master/0739-daily-temperatures) |
@@ -370,6 +374,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sourabh59-coder/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sourabh59-coder/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
@@ -497,4 +502,8 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/sourabh59-coder/LeetCode/tree/master/0526-beautiful-arrangement) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sourabh59-coder/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
