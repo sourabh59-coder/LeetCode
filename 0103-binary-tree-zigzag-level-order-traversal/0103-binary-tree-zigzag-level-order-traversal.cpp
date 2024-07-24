@@ -11,49 +11,35 @@
  */
 class Solution {
 public:
-    void Fun(TreeNode* root, bool flag, vector<vector<int>> &ans)
-    {
-        if(root==NULL)  return;
-        
-        queue<TreeNode* > qe;
-        qe.push(root);
-        
-        while(!qe.empty())
-        {
-            int size = qe.size();
-            
-            vector<int> v;
-            v.clear();
-            for(int i=0;i<size;i++)
-            {
-                TreeNode* node = qe.front();
-                qe.pop();
-                
-                v.push_back(node->val);
-                
-                if(node->left)  qe.push(node->left);
-                if(node->right) qe.push(node->right);
-            }
-            
-            if(flag)
-            {
-                reverse(v.begin(),v.end());
-                flag = false;
-            }
-            else
-            {
-                flag = true;
-            }
-            
-            ans.push_back(v);
-        }
-    }
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
         vector<vector<int>> ans;
-        bool flag = false;
         
-        Fun(root,flag,ans);
-        
+        if(root==NULL)  return ans;
+
+        queue<TreeNode* > qe;
+        bool flag = true;
+        qe.push(root);
+
+        while(!qe.empty())
+        {
+            int si = qe.size();
+            vector<int> temp;
+            for(int i=0;i<si;i++)
+            {
+                auto it = qe.front();
+                qe.pop();
+
+                temp.push_back(it->val);
+                
+                if(it->left)    qe.push(it->left);
+                if(it->right)   qe.push(it->right);
+            }
+            if(!flag)    reverse(temp.begin(),temp.end());
+
+            ans.push_back(temp);
+            flag = !(flag);
+        }
+
         return ans;
     }
 };
