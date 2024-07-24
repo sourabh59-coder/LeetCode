@@ -48,6 +48,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0740-delete-and-earn](https://github.com/sourabh59-coder/LeetCode/tree/master/0740-delete-and-earn) |
 | [0854-making-a-large-island](https://github.com/sourabh59-coder/LeetCode/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/sourabh59-coder/LeetCode/tree/master/0971-shortest-bridge) |
+| [1022-unique-paths-iii](https://github.com/sourabh59-coder/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1117-as-far-from-land-as-possible](https://github.com/sourabh59-coder/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sourabh59-coder/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sourabh59-coder/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -294,6 +295,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0131-palindrome-partitioning](https://github.com/sourabh59-coder/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0526-beautiful-arrangement](https://github.com/sourabh59-coder/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [1022-unique-paths-iii](https://github.com/sourabh59-coder/LeetCode/tree/master/1022-unique-paths-iii) |
 ## Stack
 |  |
 | ------- |
@@ -338,6 +340,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0733-flood-fill](https://github.com/sourabh59-coder/LeetCode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/sourabh59-coder/LeetCode/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/sourabh59-coder/LeetCode/tree/master/0971-shortest-bridge) |
+| [1022-unique-paths-iii](https://github.com/sourabh59-coder/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1117-as-far-from-land-as-possible](https://github.com/sourabh59-coder/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sourabh59-coder/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Sliding Window
@@ -469,6 +472,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0078-subsets](https://github.com/sourabh59-coder/LeetCode/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/sourabh59-coder/LeetCode/tree/master/0338-counting-bits) |
 | [0526-beautiful-arrangement](https://github.com/sourabh59-coder/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [1022-unique-paths-iii](https://github.com/sourabh59-coder/LeetCode/tree/master/1022-unique-paths-iii) |
 ## Bucket Sort
 |  |
 | ------- |
