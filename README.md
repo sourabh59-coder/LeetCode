@@ -14,6 +14,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0040-combination-sum-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sourabh59-coder/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sourabh59-coder/LeetCode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/sourabh59-coder/LeetCode/tree/master/0075-sort-colors) |
@@ -281,6 +282,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0037-sudoku-solver](https://github.com/sourabh59-coder/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sourabh59-coder/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sourabh59-coder/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/sourabh59-coder/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sourabh59-coder/LeetCode/tree/master/0078-subsets) |
