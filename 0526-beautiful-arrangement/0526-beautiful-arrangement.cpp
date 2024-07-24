@@ -1,12 +1,10 @@
 class Solution {
 public:
-    void fun(int ind,int n,vector<int> &temp,set<vector<int>> &st,vector<int> &vis)
+    int fun(int ind,int n,vector<int> &vis)
     {
-        if(ind==n+1)
-        {
-            st.insert(temp);
-            return;
-        }
+        if(ind==n+1)    return 1;
+
+        int ans = 0;
 
         for(int i=1;i<=n;i++)
         {
@@ -15,19 +13,16 @@ public:
                 if(i%ind==0 || ind%i==0)
                 {
                     vis[i] = 1;
-                    temp.push_back(i);
-                    fun(ind+1,n,temp,st,vis);
-                    temp.pop_back();
+                    ans += fun(ind+1,n,vis);
                     vis[i] = 0;
                 }
             }
         }
+
+        return ans;
     }
     int countArrangement(int n) {
-        set<vector<int>> st;
-        vector<int> temp;
         vector<int> vis(n+1,0);
-        fun(1,n,temp,st,vis);
-        return st.size();
+        return fun(1,n,vis);
     }
 };
