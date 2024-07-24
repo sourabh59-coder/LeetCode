@@ -40,6 +40,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0403-frog-jump](https://github.com/sourabh59-coder/LeetCode/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/sourabh59-coder/LeetCode/tree/master/0493-reverse-pairs) |
+| [0526-beautiful-arrangement](https://github.com/sourabh59-coder/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/sourabh59-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/sourabh59-coder/LeetCode/tree/master/0733-flood-fill) |
@@ -128,6 +129,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0338-counting-bits](https://github.com/sourabh59-coder/LeetCode/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/sourabh59-coder/LeetCode/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0526-beautiful-arrangement](https://github.com/sourabh59-coder/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/sourabh59-coder/LeetCode/tree/master/0740-delete-and-earn) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sourabh59-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -291,6 +293,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0079-word-search](https://github.com/sourabh59-coder/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sourabh59-coder/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0526-beautiful-arrangement](https://github.com/sourabh59-coder/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Stack
 |  |
 | ------- |
@@ -465,6 +468,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0078-subsets](https://github.com/sourabh59-coder/LeetCode/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/sourabh59-coder/LeetCode/tree/master/0338-counting-bits) |
+| [0526-beautiful-arrangement](https://github.com/sourabh59-coder/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -478,4 +482,8 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sourabh59-coder/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/sourabh59-coder/LeetCode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
