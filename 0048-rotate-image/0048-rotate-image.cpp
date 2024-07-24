@@ -1,30 +1,14 @@
 class Solution {
 public:
-    void ClockwiseRotate90(vector<vector<int>> &v)
-    {
-        int n = v.size();
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<n;j++)
-            {
-                if(i+j < n-1)
-                {
-                    int i2 = (n-1)-j, j2= (n-1)-i;
-                    swap(v[i][j],v[i2][j2]);
-                }
+    void rotate(vector<vector<int>>& matrix) {
+        int row = matrix.size();
+        for(int i=0;i<row; i++){
+            for(int j=0; j<=i;j++){
+                swap(matrix[i][j], matrix[j][i]);
             }
         }
-        
-        for(int i=0;i<n/2;i++)
-        {
-            for(int j=0;j<n;j++)
-            {
-                int i1 = (n-1)-i;
-                swap(v[i][j],v[i1][j]);
-            }
+        for(int i=0;i<row;i++){
+            reverse(matrix[i].begin(), matrix[i].end());
         }
-    }
-    void rotate(vector<vector<int>>& v) {
-        ClockwiseRotate90(v);
     }
 };
