@@ -1,30 +1,31 @@
 class Solution {
 public:
-    void fun(vector<int> &nums,vector<vector<int>> &ans,vector<int> &temp,unordered_set<int> &st,int ind)
+    void fun(vector<int> &v,int n,vector<int> &temp,vector<vector<int>> &ans,vector<int> &vis)
     {
-        if(temp.size()==nums.size())
+        if(temp.size()==n)
         {
             ans.push_back(temp);
             return;
         }
-        
-        for(int i=0;i<nums.size();i++)
+
+        for(int i=0;i<n;i++)
         {
-            if(st.find(nums[i])==st.end())
+            if(!vis[i])
             {
-                temp.push_back(nums[i]);
-                st.insert(nums[i]);
-                fun(nums,ans,temp,st,ind+1);
+                vis[i] = 1;
+                temp.push_back(v[i]);
+                fun(v,n,temp,ans,vis);
                 temp.pop_back();
-                st.erase(nums[i]);
+                vis[i] = 0;
             }
         }
     }
-    vector<vector<int>> permute(vector<int>& nums) {
+    vector<vector<int>> permute(vector<int>& v) {
+        int n = v.size();
         vector<vector<int>> ans;
         vector<int> temp;
-        unordered_set<int> st;
-        fun(nums,ans,temp,st,0);
+        vector<int> vis(n,0);
+        fun(v,n,temp,ans,vis);
         return ans;
     }
 };
