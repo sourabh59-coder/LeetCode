@@ -15,6 +15,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0042-trapping-rain-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sourabh59-coder/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/sourabh59-coder/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sourabh59-coder/LeetCode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/sourabh59-coder/LeetCode/tree/master/0075-sort-colors) |
@@ -332,6 +333,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sourabh59-coder/LeetCode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/sourabh59-coder/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sourabh59-coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -349,6 +351,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sourabh59-coder/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/sourabh59-coder/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/sourabh59-coder/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sourabh59-coder/LeetCode/tree/master/0085-maximal-rectangle) |
