@@ -108,6 +108,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sourabh59-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/sourabh59-coder/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/sourabh59-coder/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/sourabh59-coder/LeetCode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/sourabh59-coder/LeetCode/tree/master/0127-word-ladder) |
@@ -328,6 +329,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sourabh59-coder/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sourabh59-coder/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sourabh59-coder/LeetCode/tree/master/0085-maximal-rectangle) |
