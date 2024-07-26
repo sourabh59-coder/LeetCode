@@ -66,6 +66,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [1117-as-far-from-land-as-possible](https://github.com/sourabh59-coder/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sourabh59-coder/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sourabh59-coder/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/sourabh59-coder/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/sourabh59-coder/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/sourabh59-coder/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sourabh59-coder/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -147,6 +148,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0680-valid-palindrome-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/sourabh59-coder/LeetCode/tree/master/0778-reorganize-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sourabh59-coder/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/sourabh59-coder/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sourabh59-coder/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Dynamic Programming
 |  |
@@ -180,6 +182,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sourabh59-coder/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sourabh59-coder/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sourabh59-coder/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/sourabh59-coder/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Hash Table
 |  |
 | ------- |
@@ -480,6 +483,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/sourabh59-coder/LeetCode/tree/master/0778-reorganize-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/sourabh59-coder/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/sourabh59-coder/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sourabh59-coder/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Union Find
