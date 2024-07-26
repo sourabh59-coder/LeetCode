@@ -56,6 +56,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0854-making-a-large-island](https://github.com/sourabh59-coder/LeetCode/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/sourabh59-coder/LeetCode/tree/master/0971-shortest-bridge) |
 | [1014-k-closest-points-to-origin](https://github.com/sourabh59-coder/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/sourabh59-coder/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1022-unique-paths-iii](https://github.com/sourabh59-coder/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1117-as-far-from-land-as-possible](https://github.com/sourabh59-coder/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sourabh59-coder/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -182,6 +183,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0778-reorganize-string](https://github.com/sourabh59-coder/LeetCode/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sourabh59-coder/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/sourabh59-coder/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sourabh59-coder/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Tree
@@ -424,6 +426,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/sourabh59-coder/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/sourabh59-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/sourabh59-coder/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sourabh59-coder/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Simulation
 |  |
