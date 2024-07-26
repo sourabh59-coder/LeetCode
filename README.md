@@ -44,6 +44,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sourabh59-coder/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/sourabh59-coder/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/sourabh59-coder/LeetCode/tree/master/0403-frog-jump) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/sourabh59-coder/LeetCode/tree/master/0493-reverse-pairs) |
@@ -178,6 +179,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0160-intersection-of-two-linked-lists](https://github.com/sourabh59-coder/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/sourabh59-coder/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/sourabh59-coder/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sourabh59-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/sourabh59-coder/LeetCode/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/sourabh59-coder/LeetCode/tree/master/0778-reorganize-string) |
