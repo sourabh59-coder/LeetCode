@@ -20,6 +20,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0049-group-anagrams](https://github.com/sourabh59-coder/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sourabh59-coder/LeetCode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sourabh59-coder/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sourabh59-coder/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sourabh59-coder/LeetCode/tree/master/0079-word-search) |
@@ -167,6 +168,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0001-two-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/sourabh59-coder/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/sourabh59-coder/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/sourabh59-coder/LeetCode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/sourabh59-coder/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sourabh59-coder/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -378,6 +380,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0037-sudoku-solver](https://github.com/sourabh59-coder/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/sourabh59-coder/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sourabh59-coder/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sourabh59-coder/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/sourabh59-coder/LeetCode/tree/master/0130-surrounded-regions) |
