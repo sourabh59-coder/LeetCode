@@ -35,6 +35,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0200-number-of-islands](https://github.com/sourabh59-coder/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/sourabh59-coder/LeetCode/tree/master/0221-maximal-square) |
+| [0283-move-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sourabh59-coder/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/sourabh59-coder/LeetCode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/sourabh59-coder/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -98,6 +99,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0151-reverse-words-in-a-string](https://github.com/sourabh59-coder/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sourabh59-coder/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sourabh59-coder/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0908-middle-of-the-linked-list) |
