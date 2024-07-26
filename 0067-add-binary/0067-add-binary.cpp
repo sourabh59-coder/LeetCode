@@ -1,51 +1,29 @@
+#include <string>
+#include <algorithm>
+
 class Solution {
 public:
-    string addBinary(string a, string b) {
+    string addBinary(string a,string b) {
         string ans = "";
-        
-        int n = a.length();
-        int m = b.length();
+        int n = a.size() - 1;
+        int m = b.size() - 1;
         int carry = 0;
-        while(n!=0 || m!=0 || carry!=0)
-        {
-            int k1 = 0;
-            int k2 = 0;
-            if(n!=0)
-            {
-                k1 = a[n-1]-'0';
-                n--;
-            }    
-            if(m!=0)
-            {
-                k2 = b[m-1]-'0';
-                m--;
-            }
-            
-            int sum = carry+k1+k2;
-            
-            if(sum==0)
-            {
-                ans += '0';
-                carry = 0;
-            }
-            else if(sum==1)
-            {
-                ans += '1';
-                carry = 0;
-            }
-            else if(sum==2)
-            {
-                ans += '0';
-                carry = 1;
-            }
-            else if(sum==3)
-            {
-                ans += '1';
-                carry = 1;
-            }
+
+        while (n >= 0 || m >= 0) {
+            int valA = (n >= 0) ? a[n] - '0' : 0;
+            int valB = (m >= 0) ? b[m] - '0' : 0;
+            int sum = valA + valB + carry;
+            carry = sum / 2;
+            ans += (sum % 2) + '0';
+            n--;
+            m--;
         }
-        
-        reverse(ans.begin(),ans.end());
+
+        if (carry != 0) {
+            ans += '1';
+        }
+
+        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
