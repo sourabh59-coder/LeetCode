@@ -34,6 +34,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0200-number-of-islands](https://github.com/sourabh59-coder/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/sourabh59-coder/LeetCode/tree/master/0221-maximal-square) |
+| [0287-find-the-duplicate-number](https://github.com/sourabh59-coder/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/sourabh59-coder/LeetCode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/sourabh59-coder/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sourabh59-coder/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -63,6 +64,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sourabh59-coder/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/sourabh59-coder/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sourabh59-coder/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/sourabh59-coder/LeetCode/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -95,6 +97,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0151-reverse-words-in-a-string](https://github.com/sourabh59-coder/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sourabh59-coder/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/sourabh59-coder/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
@@ -522,6 +525,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sourabh59-coder/LeetCode/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/sourabh59-coder/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sourabh59-coder/LeetCode/tree/master/0338-counting-bits) |
 | [0526-beautiful-arrangement](https://github.com/sourabh59-coder/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1022-unique-paths-iii](https://github.com/sourabh59-coder/LeetCode/tree/master/1022-unique-paths-iii) |
