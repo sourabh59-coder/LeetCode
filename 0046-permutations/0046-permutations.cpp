@@ -22,9 +22,9 @@ public:
     }
     vector<vector<int>> permute(vector<int>& v) {
         int n = v.size();
+        vector<int> vis(n,0);
         vector<vector<int>> ans;
         vector<int> temp;
-        vector<int> vis(n,0);
         fun(v,n,temp,ans,vis);
         return ans;
     }
