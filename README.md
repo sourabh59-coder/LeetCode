@@ -19,6 +19,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0048-rotate-image](https://github.com/sourabh59-coder/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sourabh59-coder/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sourabh59-coder/LeetCode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/sourabh59-coder/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sourabh59-coder/LeetCode/tree/master/0075-sort-colors) |
@@ -146,6 +147,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sourabh59-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/sourabh59-coder/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sourabh59-coder/LeetCode/tree/master/0070-climbing-stairs) |
@@ -463,6 +465,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sourabh59-coder/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/sourabh59-coder/LeetCode/tree/master/0778-reorganize-string) |
