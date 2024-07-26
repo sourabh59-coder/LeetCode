@@ -128,6 +128,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0778-reorganize-string](https://github.com/sourabh59-coder/LeetCode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/sourabh59-coder/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sourabh59-coder/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## String
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0680-valid-palindrome-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/sourabh59-coder/LeetCode/tree/master/0778-reorganize-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sourabh59-coder/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sourabh59-coder/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -200,6 +202,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sourabh59-coder/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sourabh59-coder/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sourabh59-coder/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/sourabh59-coder/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sourabh59-coder/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Tree
@@ -478,6 +481,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0680-valid-palindrome-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/sourabh59-coder/LeetCode/tree/master/0778-reorganize-string) |
 | [1762-furthest-building-you-can-reach](https://github.com/sourabh59-coder/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sourabh59-coder/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Union Find
 |  |
 | ------- |
