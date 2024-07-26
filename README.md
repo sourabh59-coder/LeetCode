@@ -131,6 +131,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0005-longest-palindromic-substring](https://github.com/sourabh59-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/sourabh59-coder/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sourabh59-coder/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/sourabh59-coder/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/sourabh59-coder/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/sourabh59-coder/LeetCode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/sourabh59-coder/LeetCode/tree/master/0127-word-ladder) |
@@ -375,6 +376,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0002-add-two-numbers](https://github.com/sourabh59-coder/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sourabh59-coder/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/sourabh59-coder/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sourabh59-coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -442,6 +444,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sourabh59-coder/LeetCode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/sourabh59-coder/LeetCode/tree/master/0289-game-of-life) |
 ## Binary Indexed Tree
 |  |
@@ -544,6 +547,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sourabh59-coder/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sourabh59-coder/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/sourabh59-coder/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sourabh59-coder/LeetCode/tree/master/0338-counting-bits) |
