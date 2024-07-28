@@ -117,6 +117,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0283-move-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sourabh59-coder/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/sourabh59-coder/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -154,6 +155,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0474-ones-and-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/sourabh59-coder/LeetCode/tree/master/0778-reorganize-string) |
+| [0874-backspace-string-compare](https://github.com/sourabh59-coder/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sourabh59-coder/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sourabh59-coder/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sourabh59-coder/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -389,6 +391,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0234-palindrome-linked-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/sourabh59-coder/LeetCode/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/sourabh59-coder/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Math
 |  |
 | ------- |
@@ -468,6 +471,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0067-add-binary](https://github.com/sourabh59-coder/LeetCode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/sourabh59-coder/LeetCode/tree/master/0289-game-of-life) |
+| [0874-backspace-string-compare](https://github.com/sourabh59-coder/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Binary Indexed Tree
 |  |
 | ------- |
