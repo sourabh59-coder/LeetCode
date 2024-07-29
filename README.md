@@ -74,6 +74,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sourabh59-coder/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sourabh59-coder/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/sourabh59-coder/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/sourabh59-coder/LeetCode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/sourabh59-coder/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sourabh59-coder/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search
@@ -400,6 +401,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0874-backspace-string-compare](https://github.com/sourabh59-coder/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0943-sum-of-subarray-minimums](https://github.com/sourabh59-coder/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/sourabh59-coder/LeetCode/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -462,6 +464,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0085-maximal-rectangle](https://github.com/sourabh59-coder/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/sourabh59-coder/LeetCode/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/sourabh59-coder/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/sourabh59-coder/LeetCode/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -514,6 +517,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sourabh59-coder/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/sourabh59-coder/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sourabh59-coder/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/sourabh59-coder/LeetCode/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Union Find
 |  |
 | ------- |
