@@ -33,6 +33,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sourabh59-coder/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/sourabh59-coder/LeetCode/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sourabh59-coder/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sourabh59-coder/LeetCode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sourabh59-coder/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -388,6 +389,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0085-maximal-rectangle](https://github.com/sourabh59-coder/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sourabh59-coder/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sourabh59-coder/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/sourabh59-coder/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -401,6 +403,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0062-unique-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/sourabh59-coder/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sourabh59-coder/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sourabh59-coder/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sourabh59-coder/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
