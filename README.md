@@ -153,6 +153,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0127-word-ladder](https://github.com/sourabh59-coder/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/sourabh59-coder/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/sourabh59-coder/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sourabh59-coder/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/sourabh59-coder/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -298,6 +299,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0130-surrounded-regions](https://github.com/sourabh59-coder/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/sourabh59-coder/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sourabh59-coder/LeetCode/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sourabh59-coder/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -470,6 +472,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0146-lru-cache](https://github.com/sourabh59-coder/LeetCode/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/sourabh59-coder/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sourabh59-coder/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/sourabh59-coder/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sourabh59-coder/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
@@ -633,4 +636,8 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sourabh59-coder/LeetCode/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sourabh59-coder/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
