@@ -145,6 +145,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sourabh59-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/sourabh59-coder/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sourabh59-coder/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sourabh59-coder/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/sourabh59-coder/LeetCode/tree/master/0067-add-binary) |
@@ -642,6 +643,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sourabh59-coder/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sourabh59-coder/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
