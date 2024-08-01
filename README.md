@@ -33,6 +33,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sourabh59-coder/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/sourabh59-coder/LeetCode/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/sourabh59-coder/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sourabh59-coder/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sourabh59-coder/LeetCode/tree/master/0169-majority-element) |
@@ -154,6 +155,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0091-decode-ways](https://github.com/sourabh59-coder/LeetCode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/sourabh59-coder/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/sourabh59-coder/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/sourabh59-coder/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/sourabh59-coder/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sourabh59-coder/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -182,6 +184,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sourabh59-coder/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/sourabh59-coder/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/sourabh59-coder/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sourabh59-coder/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/sourabh59-coder/LeetCode/tree/master/0221-maximal-square) |
@@ -212,6 +215,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0073-set-matrix-zeroes](https://github.com/sourabh59-coder/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/sourabh59-coder/LeetCode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/sourabh59-coder/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/sourabh59-coder/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sourabh59-coder/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sourabh59-coder/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sourabh59-coder/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -428,6 +432,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sourabh59-coder/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/sourabh59-coder/LeetCode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sourabh59-coder/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Combinatorics
 |  |
@@ -648,6 +653,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sourabh59-coder/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/sourabh59-coder/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sourabh59-coder/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0212-word-search-ii) |
