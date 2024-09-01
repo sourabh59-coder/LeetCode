@@ -11,46 +11,24 @@
  */
 class Solution {
 public:
-    void PreOrderWithStack(TreeNode* root,vector<int> &ans)
-    {
-        stack< TreeNode * > st;
-        
-        if(root!=NULL)
-        {
-            st.push(root);
-            
-            while(!st.empty())
-            {
-                TreeNode* topv = st.top();
-                st.pop();
-                ans.push_back(topv->val);
-                
-                if(topv->right!=NULL)
-                {
-                    st.push(topv->right);
-                }
-                if(topv->left!=NULL)
-                {
-                    st.push(topv->left);
-                }
-            }
-        }
-    }
-//     void PreOrderTraversal(TreeNode* root,vector<int> &ans)
-//     {
-//         if(root==NULL)  return;
-        
-//         ans.push_back(root->val);
-        
-//         PreOrderTraversal(root->left,ans);
-        
-//         PreOrderTraversal(root->right,ans);
-//     }
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;
-        
-        PreOrderWithStack(root,ans);
-        
+
+        stack<TreeNode*> qe;
+        if(root)    qe.push(root);
+
+        while(!qe.empty())
+        {
+            auto it = qe.top();
+            qe.pop();
+
+            ans.push_back(it->val);
+
+            if(it->right)  qe.push(it->right);
+
+            if(it->left)  qe.push(it->left);
+        }
+
         return ans;
     }
 };
