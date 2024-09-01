@@ -11,24 +11,19 @@
  */
 class Solution {
 public:
-    int fun(TreeNode* root,unordered_map<TreeNode*, int> &mp,int &ans)
+    int fun(TreeNode* root,int &ans)
     {
         if(root==NULL)  return 0;
 
-        int lHeight = fun(root->left,mp,ans);
-        int rHeight = fun(root->right,mp,ans);
+        int l = fun(root->left,ans);
+        int r = fun(root->right,ans);
 
-        int he = max(lHeight,rHeight) + 1;
-        mp[root] = he;
-
-        ans = max(ans,lHeight+rHeight);
-
-        return he;
+        ans = max(ans, l+r);
+        return max(l,r)+1;
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        unordered_map<TreeNode* , int> mp;
         int ans = 0;
-        fun(root,mp,ans);
+        fun(root,ans);
         return ans;
     }
 };
