@@ -187,6 +187,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0091-decode-ways](https://github.com/sourabh59-coder/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sourabh59-coder/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sourabh59-coder/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sourabh59-coder/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0140-word-break-ii) |
@@ -255,6 +256,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0110-balanced-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sourabh59-coder/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sourabh59-coder/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sourabh59-coder/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/sourabh59-coder/LeetCode/tree/master/0173-binary-search-tree-iterator) |
@@ -287,6 +289,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0110-balanced-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sourabh59-coder/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sourabh59-coder/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sourabh59-coder/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/sourabh59-coder/LeetCode/tree/master/0173-binary-search-tree-iterator) |
@@ -315,6 +318,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0110-balanced-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sourabh59-coder/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sourabh59-coder/LeetCode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sourabh59-coder/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sourabh59-coder/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
