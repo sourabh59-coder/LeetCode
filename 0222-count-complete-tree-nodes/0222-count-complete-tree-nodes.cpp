@@ -11,24 +11,31 @@
  */
 class Solution {
 public:
-    void fun(TreeNode* root,int &cnt)
+    int rightHeight(TreeNode* root)
     {
-        if(root==NULL)
+        int ans = 0;
+        while(root!=NULL)
         {
-            return;
+            ans++;
+            root = root->right;
         }
-        
-        cnt++;
-        
-        fun(root->left,cnt);
-        
-        fun(root->right,cnt);
+        return ans;
+    }
+    int leftHeight(TreeNode* root)
+    {
+        int ans = 0;
+        while(root)
+        {
+            ans++;
+            root = root->left;
+        }
+        return ans;
     }
     int countNodes(TreeNode* root) {
-        int cnt = 0;
-        TreeNode* temp = root;
-        fun(temp,cnt);
-        
-        return cnt;
+        if(root==NULL)  return 0;
+        int l = leftHeight(root->left);
+        int r = rightHeight(root->right);
+        if(l==r)    return pow(2,l+1) - 1;
+        return 1 + countNodes(root->left) + countNodes(root->right);
     }
 };
