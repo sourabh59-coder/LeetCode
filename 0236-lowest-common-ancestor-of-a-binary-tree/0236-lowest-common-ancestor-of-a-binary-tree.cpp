@@ -9,55 +9,15 @@
  */
 class Solution {
 public:
-    void Function(TreeNode* root,unordered_map<TreeNode* , TreeNode* > &mp,TreeNode* parent)
-    {
-        if(root==NULL)  return;
-        
-        mp[root] = parent;
-        
-        Function(root->left,mp,root);
-        Function(root->right,mp,root);
-    }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        unordered_map<TreeNode* , TreeNode* > mp;
-        
-        Function(root,mp,NULL);
-        
-        vector<TreeNode* > pv,qv;
-        
-        while(p!=NULL)
-        {
-            pv.push_back(p);
-            p = mp[p];
-        }
-        
-        while(q!=NULL)
-        {
-            qv.push_back(q);
-            q = mp[q];
-        }
-        
-        reverse(qv.begin(),qv.end());
-        reverse(pv.begin(),pv.end());
-        
-        // for(int i=0;i<qv.size();i++)
-        // {
-        //     cout<<qv[i]->val<<endl;
-        // }
-        
-        TreeNode* ans = NULL;
-        for(int i=0;i<qv.size() && i<pv.size();i++)
-        {
-            // cout<<qv[i]->val<<" "<<pv[i]->val<<endl;
-            if(qv[i]->val==pv[i]->val)
-            {
-                ans = qv[i];
-            }
-            // else
-            // {
-            //     break;
-            // }
-        }
-        return ans;
+        if(root==NULL || root==p || root==q)    return root;
+
+        TreeNode* l = lowestCommonAncestor(root->left,p,q);
+        TreeNode* r = lowestCommonAncestor(root->right,p,q);
+
+        if(l!=NULL && r==NULL)  return l;
+        else if(l==NULL && r!=NULL) return r;
+        else if(l==NULL && r==NULL) return NULL;
+        else    return root;
     }
 };
