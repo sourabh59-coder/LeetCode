@@ -1,32 +1,28 @@
 class Solution {
 public:
-
-    int dp[5001][301];
-
-    int find(int amount,int i, vector<int> coins)
+    int fun(vector<int> &v,int ind,int n,int k,vector<vector<int>> &dp)
     {
-        if(amount<0)
-        return 0;
-        
-        if(amount==0)
-            return 1;
-        if(dp[amount][i]!=-1)
-            return dp[amount][i];
-            if(i==coins.size())
-                return 0;
-
-        return dp[amount][i]=find(amount-coins[i],i,coins)+find(amount,i+1,coins);
-
-    }
-    int change(int amount, vector<int>& coins) {
-        
-        for(int i=0;i<5001;i++)
+        if(ind==n)
         {
-            for(int j=0;j<301;j++)
-            {
-                dp[i][j]=-1;
-            }
+            if(k==0)    return 1;
+            else        return 0;
         }
-        return find(amount,0,coins);
+
+        if(dp[ind][k]!=-1)  return dp[ind][k];
+
+        //notTake 
+        int notTake = fun(v,ind+1,n,k,dp);
+
+        //Take
+        int Take = 0;
+
+        if(k>=v[ind])   Take = fun(v,ind,n,k-v[ind],dp);
+
+        return dp[ind][k] = (Take + notTake);
+    }
+    int change(int k, vector<int>& v) {
+        int n = v.size();
+        vector<vector<int>> dp(n+1, vector<int> (k+1,-1));
+        return fun(v,0,n,k,dp);
     }
 };
