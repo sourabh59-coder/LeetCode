@@ -180,6 +180,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0680-valid-palindrome-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/sourabh59-coder/LeetCode/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/sourabh59-coder/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1170-shortest-common-supersequence](https://github.com/sourabh59-coder/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sourabh59-coder/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sourabh59-coder/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -222,6 +223,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0943-sum-of-subarray-minimums](https://github.com/sourabh59-coder/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0972-knight-dialer](https://github.com/sourabh59-coder/LeetCode/tree/master/0972-knight-dialer) |
 | [1117-as-far-from-land-as-possible](https://github.com/sourabh59-coder/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
+| [1170-shortest-common-supersequence](https://github.com/sourabh59-coder/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sourabh59-coder/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sourabh59-coder/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sourabh59-coder/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
