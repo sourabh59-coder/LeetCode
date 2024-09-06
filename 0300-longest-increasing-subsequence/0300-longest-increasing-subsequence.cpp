@@ -18,8 +18,24 @@ public:
     }
     int lengthOfLIS(vector<int>& v) {
         int n = v.size();
-        vector<vector<int>> dp(n+2, vector<int> (n+1,-1));
-        
-        return fun(v,1,0,n,dp);
+        vector<vector<int>> dp(n+2, vector<int> (n+1,0));
+
+        for(int i=n;i>=1;i--)
+        {
+            for(int j=i-1;j>=0;j--)
+            {
+                // notTake 
+                int notTake = 0 + dp[i+1][j];
+
+                //Take
+                int Take = 0;
+
+                if(j==0 || v[i-1]>v[j-1])  Take = dp[i+1][i] + 1;
+
+                dp[i][j] = max(notTake,Take);
+            }
+        }
+        return dp[1][0];        
+        // return fun(v,1,0,n,dp);
     }
 };
