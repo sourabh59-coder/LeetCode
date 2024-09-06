@@ -161,6 +161,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0005-longest-palindromic-substring](https://github.com/sourabh59-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/sourabh59-coder/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sourabh59-coder/LeetCode/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/sourabh59-coder/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/sourabh59-coder/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/sourabh59-coder/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/sourabh59-coder/LeetCode/tree/master/0079-word-search) |
@@ -190,6 +191,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sourabh59-coder/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/sourabh59-coder/LeetCode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/sourabh59-coder/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sourabh59-coder/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -577,6 +579,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sourabh59-coder/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/sourabh59-coder/LeetCode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/sourabh59-coder/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sourabh59-coder/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -636,6 +639,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/sourabh59-coder/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sourabh59-coder/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/sourabh59-coder/LeetCode/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/sourabh59-coder/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0206-reverse-linked-list) |
