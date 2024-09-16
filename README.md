@@ -185,6 +185,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [1170-shortest-common-supersequence](https://github.com/sourabh59-coder/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sourabh59-coder/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sourabh59-coder/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sourabh59-coder/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sourabh59-coder/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Dynamic Programming
@@ -260,6 +261,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sourabh59-coder/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sourabh59-coder/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sourabh59-coder/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sourabh59-coder/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/sourabh59-coder/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sourabh59-coder/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -517,6 +519,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/sourabh59-coder/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sourabh59-coder/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sourabh59-coder/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sourabh59-coder/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Rolling Hash
 |  |
