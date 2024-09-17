@@ -2,22 +2,20 @@ class Solution {
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& v) {
         int n = v.size();
-        vector<int> adj[n];
-
-        vector<int> outdegree(n,0);
+        vector<vector<int>> adj(n);
+        vector<int> indegree(n,0);
         for(int i=0;i<n;i++)
         {
-            outdegree[i] = v[i].size();
-            for(int j=0;j<outdegree[i];j++)
+            for(int j=0;j<v[i].size();j++)
             {
+                indegree[i]++;
                 adj[v[i][j]].push_back(i);
+
             }
         }
-
+        vector<int> ans;
         queue<int> qe;
-        for(int i=0;i<n;i++)    if(outdegree[i]==0) qe.push(i);
-
-        vector<int>  ans;
+        for(int i=0;i<indegree.size();i++)  if(indegree[i]==0)  qe.push(i);
         while(!qe.empty())
         {
             auto it = qe.front();
@@ -25,10 +23,13 @@ public:
 
             ans.push_back(it);
 
-            for(auto child: adj[it])
+            for(auto child : adj[it])
             {
-                outdegree[child]--;
-                if(outdegree[child]==0) qe.push(child);
+                indegree[child]--;
+                if(indegree[child]==0)
+                {
+                    qe.push(child);
+                }
             }
         }
         sort(ans.begin(),ans.end());
