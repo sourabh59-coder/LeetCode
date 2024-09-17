@@ -11,28 +11,23 @@
  */
 class Solution {
 public:
-    TreeNode* fun(unordered_map<int,int> &mp,vector<int> &postorder,int ps,int pe,vector<int> &inorder,int is,int ie)
+    TreeNode* fun(vector<int> &postorder,vector<int> &inorder,int ps,int pe,int is,int ie,map<int,int> &mp)
     {
         if(is>ie || ps>pe)  return NULL;
 
         TreeNode* root = new TreeNode(postorder[pe]);
+        int iRoot = mp[root->val];
 
-        int inRoot =  mp[root->val];
-
-        root->right = fun(mp,postorder,ps+inRoot-is,pe-1,inorder,inRoot+1,ie);
-
-        root->left = fun(mp,postorder,ps,ps+inRoot-is-1,inorder,is,inRoot-1); 
+        root->left = fun(postorder,inorder,ps,ps+iRoot-is-1,is,iRoot-1,mp);
+        root->right = fun(postorder,inorder,ps+iRoot-is,pe-1,iRoot+1,ie,mp);
 
         return root;
     }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
         int n = inorder.size();
-        if(n==0)    return NULL;
-        unordered_map<int,int> mp;
-        for(int i=0;i<n;i++)
-        {
-            mp[inorder[i]] = i;
-        }
-        return fun(mp,postorder,0,n-1,inorder,0,n-1);
+        map<int,int> mp;
+        for(int i=0;i<inorder.size();i++)   mp[inorder[i]] = i;
+        int ps = 0, is = 0, pe = n-1, ie = n-1;
+        return fun(postorder,inorder,ps,pe,is,ie,mp);
     }
 };
