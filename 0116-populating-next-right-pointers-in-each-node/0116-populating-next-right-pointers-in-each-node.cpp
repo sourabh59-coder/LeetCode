@@ -18,36 +18,31 @@ public:
 
 class Solution {
 public:
-    void fun(Node* &root)
-    {
-        if(root==NULL)  return;
-        queue<Node* > qe;
-        qe.push(root);
-        
-        while(!qe.empty())
-        {
-            int size = qe.size();
-            
-            Node* prev = NULL;
-            
-            for(int i=0;i<size;i++)
-            {
-                auto child = qe.front();
-                qe.pop();
-                
-                child->next = prev;
-                prev = child;
-                
-                if(child->right) qe.push(child->right);
-                if(child->left)  qe.push(child->left);
-            }
-        }
-    }
     Node* connect(Node* root) {
         Node* ans = root;
-        
-        fun(root);
-        
+        if(root==NULL)  return ans;
+        queue<Node*> qe;
+        qe.push(root);
+
+        while(!qe.empty())
+        {
+            int si = qe.size();
+            Node* prev = NULL;
+
+            for(int sp=0;sp<si;sp++)
+            {
+                auto it = qe.front();
+                qe.pop();
+
+                if(prev!=NULL)  prev->next = it;
+
+                if(it->left)    qe.push(it->left);
+                if(it->right)   qe.push(it->right);
+                it->next = NULL;
+                prev = it;
+            }
+        }
+
         return ans;
     }
 };
