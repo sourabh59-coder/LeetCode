@@ -13,20 +13,21 @@ class Solution {
 public:
     void fun(TreeNode* root,int &k,int &ans)
     {
-        if(root==NULL || k==0)  return;
-        
+        if(root==NULL)  return;
+
         fun(root->left,k,ans);
-        
-        if(k>=0)
+
+        if(k==0)
         {
-            k = k - 1;
-            if(k==0)    ans = root->val;
-        }
-        
+            ans = root->val;
+        }    
+        k--;
+
         fun(root->right,k,ans);
     }
     int kthSmallest(TreeNode* root, int k) {
         int ans = -1;
+        k--;
         fun(root,k,ans);
         return ans;
     }
