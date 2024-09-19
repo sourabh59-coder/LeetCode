@@ -1,45 +1,48 @@
 class Solution {
 public:
-    const int INF = 1e9;
-    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        // priority_queue will store {cost, {node, stops}}
-        queue<pair<int, pair<int, int>>> qe;
-        
-        // adj will store {destination, weight}
-        vector<vector<pair<int, int>>> adj(n);
-        for(auto it : flights) {
+    int findCheapestPrice(int n, vector<vector<int>>& v, int src, int dst, int k) {
+        vector<vector<pair<int,int>>> adj(n);
+        for(auto it: v)
+        {
             int a = it[0];
             int b = it[1];
             int wt = it[2];
-            adj[a].emplace_back(b, wt);
+
+            adj[a].push_back({b,wt});
         }
+        vector<int> ans(n,INT_MAX);
+        queue<pair<int,pair<int,int>>> qe; //{val,{node,k}}
+        ans[src] = 0;
+        qe.push({0,{src,0}}); // {val,node,k}
 
-        vector<int> dist(n, INF);
-        dist[src] = 0;
-        qe.push({0, {src, 0}});
-
-        while(!qe.empty()) {
+        while(!qe.empty())
+        {
             auto it = qe.front();
             qe.pop();
 
-            int cost = it.first;
+            int dist = it.first;
             int node = it.second.first;
-            int stops = it.second.second;
+            int k_val = it.second.second;
 
-            // if(node == dst) return cost;
-            if(stops==k+1) break;
+            // if(node==dst)   return dist;
 
-            for(auto& child : adj[node]) {
+            if(k_val>k) continue;
+
+
+            for(auto child: adj[node])
+            {
                 int child_node = child.first;
                 int child_wt = child.second;
 
-                if(cost + child_wt < dist[child_node]) {
-                    dist[child_node] = cost + child_wt;
-                    qe.push({cost + child_wt, {child_node, stops + 1}});
+                if(dist + child_wt < ans[child_node])
+                {
+                    ans[child_node] = dist + child_wt;
+                    qe.push({ans[child_node],{child_node,k_val+1}});
                 }
             }
         }
 
-        return (dist[dst] == INF) ? -1 : dist[dst];
+        if(ans[dst]==INT_MAX)   return -1;
+        else                    return ans[dst];
     }
 };
