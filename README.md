@@ -374,6 +374,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0662-maximum-width-of-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/sourabh59-coder/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/sourabh59-coder/LeetCode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/sourabh59-coder/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sourabh59-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sourabh59-coder/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/sourabh59-coder/LeetCode/tree/master/0854-making-a-large-island) |
@@ -407,6 +408,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0662-maximum-width-of-binary-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/sourabh59-coder/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/sourabh59-coder/LeetCode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/sourabh59-coder/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sourabh59-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sourabh59-coder/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/sourabh59-coder/LeetCode/tree/master/0854-making-a-large-island) |
@@ -616,6 +618,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sourabh59-coder/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/sourabh59-coder/LeetCode/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/sourabh59-coder/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sourabh59-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sourabh59-coder/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sourabh59-coder/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -663,6 +666,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sourabh59-coder/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sourabh59-coder/LeetCode/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/sourabh59-coder/LeetCode/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/sourabh59-coder/LeetCode/tree/master/0778-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sourabh59-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/sourabh59-coder/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -675,6 +679,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/sourabh59-coder/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sourabh59-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sourabh59-coder/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Bit Manipulation
