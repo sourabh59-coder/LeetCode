@@ -14,17 +14,18 @@ public:
     TreeNode* fun(vector<int> &v,int l,int r)
     {
         if(l>r) return NULL;
-        int mid = (r+l)/2;
+        int mid = l + (r-l)/2;
+
         TreeNode* root = new TreeNode(v[mid]);
-        TreeNode* l_node = fun(v,l,mid-1);
-        TreeNode* r_node = fun(v,mid+1,r);
-        root->left = l_node;
-        root->right = r_node;
+
+        root->left = fun(v,l,mid-1);
+        root->right = fun(v,mid+1,r);
+
         return root;
     }
     TreeNode* sortedArrayToBST(vector<int>& v) {
-        int l = 0;
-        int r = v.size()-1;
+        int n = v.size();
+        int l = 0, r = n-1;
         return fun(v,l,r);
     }
 };
