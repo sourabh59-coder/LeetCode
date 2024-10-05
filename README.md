@@ -744,4 +744,8 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0208-implement-trie-prefix-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sourabh59-coder/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0212-word-search-ii) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sourabh59-coder/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
