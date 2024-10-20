@@ -129,6 +129,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0086-partition-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/sourabh59-coder/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sourabh59-coder/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sourabh59-coder/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -251,6 +252,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0139-word-break](https://github.com/sourabh59-coder/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/sourabh59-coder/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sourabh59-coder/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sourabh59-coder/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sourabh59-coder/LeetCode/tree/master/0169-majority-element) |
@@ -646,6 +648,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sourabh59-coder/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/sourabh59-coder/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sourabh59-coder/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/sourabh59-coder/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0148-sort-list) |
