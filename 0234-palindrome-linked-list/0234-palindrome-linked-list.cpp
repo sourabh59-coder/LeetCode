@@ -10,44 +10,55 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head)
+    ListNode* reverseLL(ListNode* head)
     {
-        ListNode* ptr = head;
+        if(!head ||  !head->next)   return head;
+
         ListNode* prev = NULL;
+        ListNode* ptr = head;
 
         while(ptr!=NULL)
         {
-            ListNode* ptr_next = ptr->next;
+            ListNode* next_ptr = ptr->next;
             ptr->next = prev;
             prev = ptr;
-            ptr = ptr_next;
+            ptr = next_ptr;
         }
 
         return prev;
     }
-    bool isPalindrome(ListNode* head) {
-        if(head==NULL || head->next==NULL)  return true;
-        
-        // Find the middle of the linked list
+    ListNode* middleLL(ListNode* head)
+    {
+        if(!head || !head->next)    return head;
+
         ListNode* slow = head;
         ListNode* fast = head;
-        
-        while(fast && fast->next) {
+
+        while(fast && fast->next)
+        {
             slow = slow->next;
             fast = fast->next->next;
         }
-        
-        // Reverse the second half of the linked list
-        ListNode* secondHalf = reverseList(slow);
-        ListNode* firstHalf = head;
-        
-        // Compare the first half and the reversed second half
-        while(secondHalf) {
-            if(firstHalf->val != secondHalf->val) return false;
-            firstHalf = firstHalf->next;
-            secondHalf = secondHalf->next;
+
+        return slow;
+    }
+    bool isPalindrome(ListNode* head) {
+        ListNode* p1 = head;
+        ListNode* p2 = middleLL(head);
+        p2 = reverseLL(p2);
+
+        while(p1 && p2)
+        {
+            if(p1->val!=p2->val)
+            {
+                return false;
+            }
+
+            p1 = p1->next;
+            p2 = p2->next;
         }
-        
+
+
         return true;
     }
 };
