@@ -59,6 +59,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0347-top-k-frequent-elements](https://github.com/sourabh59-coder/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/sourabh59-coder/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/sourabh59-coder/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/sourabh59-coder/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -258,6 +259,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0169-majority-element](https://github.com/sourabh59-coder/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/sourabh59-coder/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/sourabh59-coder/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sourabh59-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -703,6 +705,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0260-single-number-iii](https://github.com/sourabh59-coder/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sourabh59-coder/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sourabh59-coder/LeetCode/tree/master/0338-counting-bits) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0526-beautiful-arrangement](https://github.com/sourabh59-coder/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1022-unique-paths-iii](https://github.com/sourabh59-coder/LeetCode/tree/master/1022-unique-paths-iii) |
 ## Bucket Sort
@@ -747,6 +750,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0208-implement-trie-prefix-tree](https://github.com/sourabh59-coder/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sourabh59-coder/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0212-word-search-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Database
 |  |
 | ------- |
