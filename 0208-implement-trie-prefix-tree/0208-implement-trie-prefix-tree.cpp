@@ -1,40 +1,33 @@
 class Node{
-public:
-    Node* list[26];
-    bool flag ;
+    public:
+        Node* list[26];
+        bool flag = false;
 
-    Node()
-    {
-        for(int i=0;i<26;i++)   list[i] = NULL;
-        flag = false;
-    }    
+        bool containKey(char ch)
+        {
+            return (list[ch-'a']!=NULL);
+        }
 
-    bool containKey(char ch)
-    {
-        return (list[ch-'a']!=NULL);
-    }
+        Node* get(char ch)
+        {
+            return list[ch-'a'];
+        }
 
-    void set(char ch,Node* new_node)
-    {
-        list[ch-'a'] = new_node;
-    }
+        void put(char ch,Node* new_node)
+        {
+            list[ch-'a'] = new_node;
+        }
 
-    Node* get(char ch)
-    {
-        return list[ch-'a'];
-    }
+        void setEnd()
+        {
+            flag = true;
+        }
 
-    void setEnd()
-    {
-        flag = true;
-    }
-
-    bool isEnd()
-    {
-        return flag;
-    }
+        bool isEnd()
+        {
+            return flag;
+        }
 };
-
 
 class Trie {
 public:
@@ -45,47 +38,43 @@ public:
     
     void insert(string word) {
         Node* temp = root;
-
-        for(auto it: word)
+        for(int i=0;i<word.size();i++)
         {
-            if(!temp->containKey(it))
+            char ch = word[i];
+            if(!temp->containKey(ch))
             {
-                Node* new_node = new Node();
-                temp->set(it,new_node);
+                temp->put(ch,new Node());
             }
-            temp = temp->get(it);
+            temp = temp->get(ch);
         }
-
         temp->setEnd();
     }
     
     bool search(string word) {
         Node* temp = root;
-        for(auto it:word)
+        for(int i=0;i<word.size();i++)
         {
-            if(!temp->containKey(it))
+            char ch = word[i];
+            if(!temp->containKey(ch))
             {
                 return false;
             }
-
-            temp = temp->get(it);
+            temp = temp->get(ch);
         }
-
         return temp->isEnd();
     }
     
     bool startsWith(string prefix) {
         Node* temp = root;
-        for(auto it:prefix)
+        for(int i=0;i<prefix.size();i++)
         {
-            if(!temp->containKey(it))
+            char ch = prefix[i];
+            if(!temp->containKey(ch))
             {
                 return false;
             }
-
-            temp = temp->get(it);
+            temp = temp->get(ch);
         }
-
         return true;
     }
 };
