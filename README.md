@@ -89,6 +89,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sourabh59-coder/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/sourabh59-coder/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/sourabh59-coder/LeetCode/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/sourabh59-coder/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/sourabh59-coder/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sourabh59-coder/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search
@@ -708,6 +709,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0526-beautiful-arrangement](https://github.com/sourabh59-coder/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1022-unique-paths-iii](https://github.com/sourabh59-coder/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/sourabh59-coder/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -751,6 +753,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0211-design-add-and-search-words-data-structure](https://github.com/sourabh59-coder/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/sourabh59-coder/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Database
 |  |
 | ------- |
