@@ -92,6 +92,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/sourabh59-coder/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/sourabh59-coder/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sourabh59-coder/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2551-apply-operations-to-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0680-valid-palindrome-ii](https://github.com/sourabh59-coder/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/sourabh59-coder/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/sourabh59-coder/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2551-apply-operations-to-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -579,6 +581,7 @@ Consists Of LeetCode and Geeks For Geeks Solved Problems Solutions
 | [0067-add-binary](https://github.com/sourabh59-coder/LeetCode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/sourabh59-coder/LeetCode/tree/master/0289-game-of-life) |
 | [0874-backspace-string-compare](https://github.com/sourabh59-coder/LeetCode/tree/master/0874-backspace-string-compare) |
+| [2551-apply-operations-to-an-array](https://github.com/sourabh59-coder/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
